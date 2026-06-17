@@ -107,7 +107,7 @@ Repositorio: https://github.com/caiomldias/modelagem-casos-de-uso
 ## Contato
 
 - GitHub: https://github.com/caiomldias
-- LinkedIn: adicione aqui o link do seu LinkedIn
+- LinkedIn: https://www.linkedin.com/in/caiodias2907/
 
 ---
 
