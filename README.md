@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Caio%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/caiomldias/desenvolvimento-pessoal-fiap">
-    <img src="https://img.shields.io/badge/Diário%20acadêmico-FIAP-1D9B95?style=for-the-badge&logo=bookstack&logoColor=white" alt="Diário acadêmico" />
+    <img src="https://img.shields.io/badge/Diario%20academico-FIAP-1D9B95?style=for-the-badge&logo=bookstack&logoColor=white" alt="Diario academico" />
   </a>
 </p>
 
@@ -47,52 +47,36 @@ Atualmente estou evoluindo em **Front-End**, **Engenharia de Software**, **model
   </kbd>
   &nbsp;
   <kbd>
+    <kbd>Design e Prototipação</kbd>
+    <br><br>
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+  </kbd>
+  &nbsp;
+  <kbd>
+    <kbd>Dados e Modelagem</kbd>
+    <br><br>
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" />
+  </kbd>
+  &nbsp;
+  <kbd>
     <kbd>Ferramentas</kbd>
     <br><br>
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
   </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Em evolução</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" />
-  </kbd>
 </p>
 
 ```text
-Frontend:        HTML | CSS | Responsividade | JavaScript
-Programação:     Python | Lógica | Estruturas condicionais | Repetição
-Engenharia:      User Stories | Casos de Uso | Requisitos | INVEST
-Dados:           Modelo lógico | Modelo relacional | Banco de Dados
+Front-End:       HTML | CSS | Responsividade | Tailwind CSS | JavaScript
+Programação:     Python | Lógica de programação | Condicionais | Repetição
+UX/UI:           Figma | Protótipos | Interfaces responsivas | Design de dashboard
+Engenharia:      User Stories | Casos de Uso | Requisitos | Regras de negócio
+Dados:           Modelo lógico | Modelo relacional | Banco de Dados | MER/DER
+Projetos:        Fintech | Soluções ambientais | Produto digital | Documentação técnica
 Versionamento:   Git | GitHub | GitHub CLI | Organização de repositórios
 ```
-
----
-
-## Projetos e entregas FIAP
-
-> Os trabalhos de Fluxa, User Stories, Casos de Uso, modelagem e exercícios foram consolidados no repositório de desenvolvimento pessoal FIAP.
-
-### Challenge JOVI Vivo
-Projeto acadêmico desenvolvido para o Challenge JOVI, com uma proposta de experiência guiada para ajudar usuários a descobrirem recursos avançados da câmera do smartphone JOVI V70.
-
-Repositório: https://github.com/caiomldias/challenge-jovi-vivo
-
-### Global Solution - Sentinela do Cerrado
-Projeto acadêmico voltado a monitoramento ambiental, transformando dados orbitais sobre o Cerrado em alertas, mapa, ranking e linguagem acessível para apoiar educação, gestão pública e ação local.
-
-Repositório: https://github.com/caiomldias/global-solution-sentinela-cerrado
-
-
-### Desenvolvimento Pessoal FIAP
-Repositório criado para registrar minha evolução acadêmica, aprendizados, reflexões, objetivos e progresso durante a faculdade.
-
-Repositório: https://github.com/caiomldias/desenvolvimento-pessoal-fiap
-
-
 
 ---
 
