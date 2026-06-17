@@ -74,6 +74,8 @@ Versionamento:   Git | GitHub | GitHub CLI | Organização de repositórios
 
 ## Projetos e entregas FIAP
 
+> Os trabalhos de Fluxa, User Stories, Casos de Uso, modelagem e exercícios foram consolidados no repositório de desenvolvimento pessoal FIAP.
+
 ### Challenge JOVI Vivo
 Projeto acadêmico desenvolvido para o Challenge JOVI, com uma proposta de experiência guiada para ajudar usuários a descobrirem recursos avançados da câmera do smartphone JOVI V70.
 
@@ -84,25 +86,13 @@ Projeto acadêmico voltado a monitoramento ambiental, transformando dados orbita
 
 Repositório: https://github.com/caiomldias/global-solution-sentinela-cerrado
 
-### Fluxa Fintech Dashboard
-Dashboard financeiro responsivo desenvolvido para projeto acadêmico da FIAP. O projeto funciona 100% offline e foi organizado com HTML, CSS e fontes locais.
-
-Repositório: https://github.com/caiomldias/fintech-fluxa
 
 ### Desenvolvimento Pessoal FIAP
 Repositório criado para registrar minha evolução acadêmica, aprendizados, reflexões, objetivos e progresso durante a faculdade.
 
 Repositório: https://github.com/caiomldias/desenvolvimento-pessoal-fiap
 
-### Fintech para Autônomos - User Stories
-Especificação ágil para uma fintech voltada a profissionais autônomos, incluindo épico, user stories, critérios de aceitação, validação INVEST e priorização do backlog.
 
-Repositório: https://github.com/caiomldias/fintech-ads
-
-### Sistema de Controle Financeiro - Casos de Uso
-Modelagem UML de um sistema de controle financeiro, incluindo diagrama de contexto, diagrama de casos de uso e especificação descritiva do caso de uso Registrar Despesa.
-
-Repositório: https://github.com/caiomldias/modelagem-casos-de-uso
 
 ---
 
