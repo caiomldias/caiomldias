@@ -74,6 +74,17 @@ Versionamento:   Git | GitHub | GitHub CLI | Organizacao de repositorios
 
 ## Projetos e entregas FIAP
 
+### Challenge JOVI Vivo
+Projeto academico desenvolvido para o Challenge JOVI, com proposta de experiencia guiada para ajudar usuarios a descobrirem recursos avancados da camera do smartphone JOVI V70.
+
+Repositorio: https://github.com/caiomldias/challenge-jovi-vivo
+
+### Global Solution - Sentinela do Cerrado
+Projeto academico voltado a monitoramento ambiental, transformando dados orbitais sobre o Cerrado em alertas, mapa, ranking e linguagem acessivel para apoio a educacao, gestao publica e acao local.
+
+Repositorio: https://github.com/caiomldias/global-solution-sentinela-cerrado
+
+
 ### Fluxa Fintech Dashboard
 Dashboard financeiro responsivo desenvolvido para projeto academico da FIAP. O projeto funciona 100% offline e foi organizado com HTML, CSS e fontes locais.
 
