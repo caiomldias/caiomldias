@@ -35,6 +35,11 @@ Repositorio dedicado a atividades de modelagem e documentacao de sistemas.
 
 Repositorio: https://github.com/caiomldias/modelagem-casos-de-uso
 
+
+### Desenvolvimento Pessoal FIAP
+Repositorio para registrar minha evolucao academica, aprendizados, reflexoes e objetivos durante a faculdade.
+
+Repositorio: https://github.com/caiomldias/desenvolvimento-pessoal-fiap
 ## Objetivos atuais
 
 - Fortalecer base em HTML, CSS e JavaScript
