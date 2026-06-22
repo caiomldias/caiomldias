@@ -1,110 +1,55 @@
-<h1 align="center">Caio Dias</h1>
-<h3 align="center">Systems Analysis and Development Student @ FIAP | Aspiring Software Engineer</h3>
+# Caio Dias
 
-<p align="center">
-  <a href="https://github.com/caiomldias">
-    <img src="https://img.shields.io/badge/GitHub-caiomldias-132033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/caiodias2907/">
-    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/caiomldias/desenvolvimento-pessoal-fiap">
-    <img src="https://img.shields.io/badge/Diario%20academico-FIAP-1D9B95?style=for-the-badge&logo=bookstack&logoColor=white" alt="Diario academico" />
-  </a>
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP, construindo produtos web e soluções digitais a partir de problemas reais.
 
----
+Meu foco atual é desenvolvimento front-end e engenharia de software. Nos projetos abaixo, trabalho desde a definição do problema e dos requisitos até o protótipo, a documentação e a apresentação da solução.
 
-## Sobre mim
+[LinkedIn](https://www.linkedin.com/in/caiodias2907/) · [E-mail](mailto:caio.diasdm@gmail.com)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estou construindo minha base em desenvolvimento de software com projetos acadêmicos, documentação técnica, modelagem de sistemas e prática com GitHub.
+## Projetos em destaque
 
-Atualmente estou evoluindo em **Front-End**, **Engenharia de Software**, **modelagem de requisitos**, **banco de dados** e **Python**, com foco em transformar entregas acadêmicas em um portfólio organizado e compreensível.
+### [Sentinela do Cerrado](https://github.com/caiomldias/global-solution-sentinela-cerrado)
 
-- Estudante de ADS na FIAP
-- Aspirante a Software Engineer
-- Interesse em Front-End, produtos digitais, fintechs e engenharia de software
-- Praticando HTML, CSS, JavaScript, Python, Git, GitHub e documentação técnica
-- Organizando meu GitHub como portfólio acadêmico e profissional
+Plataforma web proposta para traduzir dados ambientais e orbitais em informações acessíveis sobre desmatamento, focos de calor, vegetação e risco hídrico.
 
----
+- **Problema:** dados ambientais técnicos nem sempre chegam de forma clara à população e a gestores locais.
+- **Solução:** jornada de captura, processamento, tradução por IA e ação por meio de painel, mapa, alertas e ranking.
+- **Tecnologias e conceitos:** HTML, CSS, JavaScript, SVG, dados simulados, MODIS, VIIRS, Landsat, Sentinel-2 e INPE.
+- **Minha atuação:** definição do problema, estruturação da solução, organização da apresentação e comunicação do protótipo.
+- [Vídeo de apresentação](https://youtu.be/CB-8uukgLvg)
 
-## Tecnologias e ferramentas
+### [Fluxa](https://github.com/caiomldias/Fluxa-web)
 
-<p align="center">
-  <kbd>
-    <kbd>Front-End</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Programação</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Design e Prototipação</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Dados e Modelagem</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <kbd>Ferramentas</kbd>
-    <br><br>
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" />
-  </kbd>
-</p>
+Dashboard financeiro responsivo que reúne saldo, fatura, investimentos, risco, ações rápidas e movimentações em uma interface que funciona offline.
 
-```text
-Front-End:       HTML | CSS | Responsividade | Tailwind CSS | JavaScript
-Programação:     Python | Lógica de programação | Condicionais | Repetição
-UX/UI:           Figma | Protótipos | Interfaces responsivas | Design de dashboard
-Engenharia:      User Stories | Casos de Uso | Requisitos | Regras de negócio
-Dados:           Modelo lógico | Modelo relacional | Banco de Dados | MER/DER
-Projetos:        Fintech | Soluções ambientais | Produto digital | Documentação técnica
-Versionamento:   Git | GitHub | GitHub CLI | Organização de repositórios
-```
+- **Problema:** consolidar informações financeiras importantes sem sobrecarregar a leitura.
+- **Entrega:** interface estática responsiva, sem servidor ou dependências de execução.
+- **Tecnologias:** HTML5, CSS3 e Tailwind CSS convertido para estilos locais.
 
----
+### [JOVI Smart Camera Assist](https://github.com/caiomldias/challenge-jovi-vivo)
 
-## O que estou desenvolvendo agora
+Experiência guiada para tornar recursos avançados da câmera do smartphone mais fáceis de descobrir e usar.
 
-- Base sólida em HTML, CSS e responsividade
-- Primeiros passos em JavaScript e Python
-- Documentação clara de projetos acadêmicos
-- Modelagem de requisitos, user stories e casos de uso
-- Organização de portfólio no GitHub
-- Melhor comunicação técnica das minhas entregas
+- **Problema:** funções como OCR, digitalização e estabilização ficam escondidas em menus complexos.
+- **Solução:** recomendações contextualizadas para estudantes, idosos e criadores de conteúdo, acessíveis pelo navegador.
+- **Minha atuação:** definição do problema, raciocínio de produto, narrativa, comunicação visual e apresentação final.
 
----
+## Como trabalho
 
-## Estatísticas
+1. Entendo a dor e o público.
+2. Transformo o problema em requisitos e fluxos.
+3. Construo e documento uma solução verificável.
+4. Reviso o que funcionou, as limitações e os próximos passos.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caiomldias&show_icons=true&theme=default&title_color=132033&text_color=545C69&icon_color=1D9B95&border_color=E2E8ED" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomldias&layout=compact&title_color=132033&text_color=545C69&border_color=E2E8ED" alt="Linguagens mais usadas" />
-</p>
+## Competências em desenvolvimento
 
----
+- **Web:** HTML, CSS, responsividade e JavaScript
+- **Programação:** Python e lógica de programação
+- **Engenharia:** requisitos, user stories, casos de uso e regras de negócio
+- **Dados:** modelagem lógica e relacional, MER/DER e SQL
+- **Produto e design:** Figma, prototipação e comunicação de soluções
+- **Ferramentas:** Git, GitHub e VS Code
 
-## Contato
+## Agora
 
-- GitHub: https://github.com/caiomldias
-- LinkedIn: https://www.linkedin.com/in/caiodias2907/
-
----
-
-Última atualização: junho de 2026
+Estou aprofundando JavaScript e Python e transformando entregas acadêmicas em projetos executáveis, documentados e fáceis de avaliar. Busco oportunidades de estágio em desenvolvimento de software onde possa aprender com código em produção e contribuir com entregas reais.
